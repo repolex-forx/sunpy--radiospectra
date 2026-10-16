@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "radiospectra",
+  "versions": [
+    {
+      "commit": "b43d043fe18f3a0d37589a3f0e11b46f04e5384d",
+      "tag": "",
+      "parsed_at": "2026-10-16T02:42:08.308942+00:00"
+    }
+  ]
+}
