@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sunpy/radiospectra/commit/b43d043fe18f3a0d37589a3f0e11b46f04e5384d",
       "git:hexsha": "b43d043fe18f3a0d37589a3f0e11b46f04e5384d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sunpy/radiospectra/commit/e977f8bd9111361d995f03fc7f7cdb980bd170bd",
